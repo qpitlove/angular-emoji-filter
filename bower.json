@@ -1,8 +1,7 @@
 {
     "name": "angular-emoji",
-    "version": "0.0.2",
+    "version": "0.0.2-patch-by-qpitlove",
     "main": [
-        "dist/emoji.min.js",
-        "dist/emoji.min.css"
+        "dist/emoji.js"
     ]
 }

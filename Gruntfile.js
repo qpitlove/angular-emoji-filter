@@ -138,6 +138,7 @@ module.exports = function (grunt) {
         "jshint",
         "clean:all",
         "montage",
+        "copy",
         "uglify",
         "cssmin",
         "clean:max",
